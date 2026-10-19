@@ -1,4 +1,5 @@
 CREATE DATABASE atv;
+
 USE atv;
 
 
